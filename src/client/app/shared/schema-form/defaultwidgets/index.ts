@@ -1,0 +1,11 @@
+export { ArrayWidgetComponent } from './array/arraywidget.component';
+export { CheckboxWidgetComponent } from './checkbox/checkboxwidget.component';
+export { FileWidgetComponent } from './file/filewidget.component';
+export { IntegerWidgetComponent } from './integer/integerwidget.component';
+export { ObjectWidgetComponent } from './object/objectwidget.component';
+export { RadioWidgetComponent } from './radio/radiowidget.component';
+export { RangeWidgetComponent } from './range/rangewidget.component';
+export { SelectWidgetComponent } from './select/selectwidget.component';
+export { StringWidgetComponent } from './string/stringwidget.component';
+export { TextAreaWidgetComponent } from './textarea/textareawidget.component';
+export { DefaultWidgetRegistry } from './defaultwidgetregistry';
